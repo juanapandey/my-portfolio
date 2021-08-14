@@ -1,0 +1,27 @@
+body{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+.img{
+    float: left;
+    padding-right: 10px;
+
+}
+.text{
+    
+    text-align: center;
+    font-style: oblique;
+    color: white;
+    font-weight: 600;
+    padding: 30px;
+}
+h2{
+    color: rgb(255, 208, 55);
+    font-family: cursive;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    color: white;
+}

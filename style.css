@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    border: rgb(244, 192, 96);
+    border-width: 8px;
+    border-style: double; 
+    font-weight: 550;
+    background-color: rgb(252, 255, 210);
+}
+
+h4{
+    color: maroon;
+    text-align: center;
+}
+
+.abc{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-style: oblique;
+    font-size: 20px;
+}

@@ -1,0 +1,25 @@
+body{
+    background-image: url(../code/aesthetic\ picture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    border: black;
+    border-width: 12px;
+    border-style: double;
+    border-image: none;
+    padding: 20px;
+    font-size: 30px;
+    border-color: sandybrown;
+    font-style: oblique;
+}
+
+.image1{
+    float: right;
+}
+.image2{
+    float: left;
+}
+.image3{
+    float: center;
+}
